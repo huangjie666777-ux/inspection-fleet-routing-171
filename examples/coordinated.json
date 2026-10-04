@@ -1,0 +1,11 @@
+{
+  "width": 3,
+  "height": 2,
+  "max_steps": 16,
+  "node_budget": 20000,
+  "vehicles": [
+    {"id": "a", "start": {"x": 0, "y": 0}, "goal": {"x": 2, "y": 0}},
+    {"id": "b", "start": {"x": 2, "y": 0}, "goal": {"x": 0, "y": 0}}
+  ]
+}
+
